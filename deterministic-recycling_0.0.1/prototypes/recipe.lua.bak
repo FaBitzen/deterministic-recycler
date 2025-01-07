@@ -1,0 +1,15 @@
+data.raw["recipe"]["scrap-recycling"] .results =
+{
+  {type = "item", name = "processing-unit",        amount = 1, probability = (settings.startup["better-recycling-processing-unit"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "advanced-circuit",       amount = 1, probability = (settings.startup["better-recycling-advanced-circuit"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "low-density-structure",  amount = 1, probability = (settings.startup["better-recycling-low-density-structure"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "solid-fuel",             amount = 1, probability = (settings.startup["better-recycling-solid-fuel"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "steel-plate",            amount = 1, probability = (settings.startup["better-recycling-steel-plate"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "concrete",               amount = 1, probability = (settings.startup["better-recycling-concrete"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "battery",                amount = 1, probability = (settings.startup["better-recycling-battery"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "ice",                    amount = 1, probability = (settings.startup["better-recycling-ice"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "stone",                  amount = 1, probability = (settings.startup["better-recycling-stone"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "holmium-ore",            amount = 1, probability = (settings.startup["better-recycling-holmium-ore"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "iron-gear-wheel",        amount = 1, probability = (settings.startup["better-recycling-iron-gear-wheel"].value / 100), show_details_in_recipe_tooltip = false},
+  {type = "item", name = "copper-cable",           amount = 1, probability = (settings.startup["better-recycling-copper-cable"].value / 100), show_details_in_recipe_tooltip = false}
+}

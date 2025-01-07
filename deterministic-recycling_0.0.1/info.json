@@ -1,0 +1,13 @@
+{
+    "name": "deterministic-recycling",
+    "version": "0.0.1",
+    "factorio_version": "2.0",
+    "title": "Deterministic Recycler",
+    "author": "Green_boyY",
+    "description": "Adds a new Recycler that takes in more ingredients to get rid of random chance. While keeping ratios.",
+    "dependencies": [
+        "base",
+        "quality",
+        "(?)space-age"
+    ]
+}
