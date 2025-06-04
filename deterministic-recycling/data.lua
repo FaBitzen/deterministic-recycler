@@ -1,0 +1,5 @@
+require("prototypes.deterministic-recycler")
+require("prototypes.recipe-category")
+require("prototypes.recipe")
+require("prototypes.technology")
+require('prototypes.group')

@@ -1,0 +1,33 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2025.03.01
+  Features:
+    - Added Advanced version of the deterministic recycler using the assembling-machine prototype.
+
+  Gui:
+    - Added new group.
+
+  Circuit Network:
+    - Made recipes accesable as signals.
+
+  Bugfixes:
+    - Fixed non-stackable items (armors) not being able to be recycled
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2025.01.17
+  Features:
+    - Full Factoriopedia intergration
+
+  Graphics:
+    - Made Recipe Icons more distinguishable
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2025.01.10
+  Minor Features:
+    - Added settings
+    - Completed all non self recycling recipes
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2025.01.07
+  Info:
+    - Initial commit

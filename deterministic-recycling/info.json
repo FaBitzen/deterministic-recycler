@@ -1,10 +1,10 @@
 {
     "name": "deterministic-recycling",
-    "version": "0.0.1",
+    "version": "0.2.0",
     "factorio_version": "2.0",
     "title": "Deterministic Recycler",
     "author": "Green_boyY",
-    "description": "Adds a new Recycler that takes in more ingredients to get rid of random chance. While keeping ratios.",
+    "description": "Adds a new Recycler that takes in more ingredients to get rid of random chance. While keeping ratios.\n\nInserter stack size 4 is recommended.",
     "dependencies": [
         "base",
         "quality",
